@@ -169,28 +169,28 @@ ol{
     <ul>
       <li ><a href="" title="Link">a</a>
         <ul >
-          <li ><a href="../product/list?p_cate_d=전연령용" title="Link">b</a></li>
+          <li ><a href="../product/list?p_cate_d=메인화면" title="Link">b</a></li>
 
         </ul>
       </li>
       <li >
          <a href="" title="Link">c</a>
           <ul >
-          <li ><a href="../product/list?p_cate_d=비스킷" title="Link">d</a></li>
+          <li ><a href="../product/list?p_cate_d=스터디" title="Link">d</a></li>
       
          </ul>
       </li>
       <li >
          <a href="" title="Link">e</a>
           <ul >
-          <li ><a href="../product/list?p_cate_d=배변패드" title="Link">f</a></li>
+          <li ><a href="../product/list?p_cate_d=프로젝트" title="Link">f</a></li>
          
          </ul>
       </li>
       <li >
          <a href="" title="Link">g</a>
           <ul >
-          <li ><a href="../product/list?p_cate_d=목줄" title="Link">h</a></li>
+          <li ><a href="../product/list?p_cate_d=포럼" title="Link">h</a></li>
         
          </ul>
       </li>
@@ -206,10 +206,7 @@ ol{
           <input class="form-control mr-sm-2" name="p_name" type="search" placeholder="Search" aria-label="Search">
           <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
-      
-<!--       <a href="/projectMenu/mypage/mypage_order">마이페이지</a>
-      <a href="/projectMenu/cart/list">장바구니</a> -->
-     
+
       
       <%=login_check %>
       <%=join_check %>
